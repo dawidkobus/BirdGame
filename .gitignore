@@ -1,0 +1,11 @@
+# Windows
+thumbs.db
+desktop.ini
+
+# NetBeans IDE
+*.mf
+*.properties
+*.xml
+build/
+dist/
+nbproject/
